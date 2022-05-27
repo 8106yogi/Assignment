@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Git Repositories</string>
+    <string name="title">Title</string>
+    <string name="twitter_handle_user_">Twitter handle : %1$s</string>
+    <string name="repository_owner_">Created by %1$s , at  %2$s</string>
+
+</resources>
